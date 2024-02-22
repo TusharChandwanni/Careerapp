@@ -1,0 +1,12 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+.active {
+    color : black;
+    background-color: whitesmoke;
+    padding: 1%;
+    border-radius: 2rem;
+}
